@@ -2,7 +2,7 @@
 Brutal Spam Sw By RennX
 
 <details open>
-  <summary><strong> Install Package + Run Script (RennXv)</strong></summary>
+  <summary><strong> Install Package + Run Script </strong></summary>
   
 ```bash
   pkg update && pkg upgrade
