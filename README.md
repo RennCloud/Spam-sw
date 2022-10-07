@@ -14,3 +14,5 @@ Brutal Spam Sw By RennX
   cd Spam
   python spam-enc.py 
   ```
+> Jika Ada Yg Eror Bisa Chat Discord Gw |
+  RennxV2#1111 <
