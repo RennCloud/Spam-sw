@@ -15,4 +15,4 @@ Brutal Spam Sw By RennX
   python Ren-sw.py 
   ```
 > Jika Ada Yg Eror Bisa Chat Discord Gw |
-  RennxV2#1111 <
+  RennxV2#1111 
